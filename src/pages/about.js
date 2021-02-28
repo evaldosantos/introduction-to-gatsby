@@ -1,5 +1,5 @@
-import React from "react"
-import { Link } from "gatsby";
+import React from 'react';
+import { Link } from 'gatsby';
 
 const About = () => (
   <>
@@ -7,6 +7,6 @@ const About = () => (
     <p>This is my personal website.</p>
     <Link to="/">&larr; back to home</Link>
   </>
-)
+);
 
 export default About;
